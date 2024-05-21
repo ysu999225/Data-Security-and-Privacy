@@ -1,0 +1,6 @@
+case1	abcd!!!	abcd!
+case2	12abcd	abcd
+case3	@bcde	abcd3
+case4	@@bcdee	aabcdee
+case5	abcde	AbcdE	
+case6	abCDE	abcde

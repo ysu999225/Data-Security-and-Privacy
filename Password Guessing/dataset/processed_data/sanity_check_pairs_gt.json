@@ -1,0 +1,1 @@
+[[["abcd!!!", "abcd!"], ["substring", "head\t\ttail\t!!"]], [["12abcd", "abcd"], ["substring", "head\t12\ttail\t"]], [["@bcde", "abcd3"], ["leet", "@a\te3"]], [["@@bcdee", "aabcdee"], ["leet", "@a\t@a"]], [["abcde", "AbcdE"], ["capt", "head\ttail\t2"]], [["abCDE", "abcde"], ["capt", "tail\t3"]]]
